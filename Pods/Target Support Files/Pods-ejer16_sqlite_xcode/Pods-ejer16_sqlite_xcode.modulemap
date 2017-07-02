@@ -1,0 +1,6 @@
+framework module Pods_ejer16_sqlite_xcode {
+  umbrella header "Pods-ejer16_sqlite_xcode-umbrella.h"
+
+  export *
+  module * { export * }
+}
